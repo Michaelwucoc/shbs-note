@@ -1,0 +1,32 @@
+TPO 7 Reading Unknown Word List
+#TOEFL #Words
+hardy 耐寒的
+**penetrate 渗透，刺入**
+fragment 碎片
+pebble 鹅卵石
+peculiarity 特征 特性
+sediment  沉淀
+exterminate 根除
+precipitate 促成
+**deluge 洪水**
+turbulent 动荡的
+invertebrate 无脊椎的
+**strait 海峡**
+cohesiveness 结合力
+**obsession 困扰**
+territorial 领地的
+priority 重点
+imperative 命令
+imitate 模仿
+**speculative 思辨的**
+**caliber 才能**
+realm 领地
+**scatter 散播**
+**domesticate 驯化**
+diffuse 扩散
+subsequently 其次
+**traverse 横渡**
+cavalry 奇兵
+intermediate 中间的
+flee 逃走
+conquer 征服
