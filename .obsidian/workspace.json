@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phyics/2023-12-01 Physics.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phyics/2023-12-01 Physics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phyics/2023-12-01 Physics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phyics/2023-12-01 Physics.md"
+                "file": "README.md"
               }
             }
           },
@@ -155,13 +155,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f6eea76a12d72d01",
+  "active": "2f2de0223e46d908",
   "lastOpenFiles": [
+    "Phyics/2023-12-01 Physics.md",
     "Phyics/Nov 7 Phyics.md",
     "README.md",
     "未命名思维导图.md",
     "Phyics/Review.md",
-    "Phyics/2023-12-01 Physics.md",
     "未命名.canvas",
     "Pasted image 20231201110250.png",
     "Phyics/Physics Homework 11-28.md",
