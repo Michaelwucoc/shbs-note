@@ -6,7 +6,7 @@
   "templateFolderPath": "",
   "announceUpdates": true,
   "version": "1.6.0",
-  "disableOnlineFeatures": true,
+  "disableOnlineFeatures": false,
   "ai": {
     "OpenAIApiKey": "",
     "defaultModel": "Ask me",
