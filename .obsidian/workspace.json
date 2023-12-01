@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c514343b6255757",
@@ -156,18 +155,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f2de0223e46d908",
+  "active": "f6eea76a12d72d01",
   "lastOpenFiles": [
-    "Pasted image 20231201110250.png",
-    "Phyics/2023-12-01 Physics.md",
-    "Phyics/Physics Homework 11-28.md",
     "Phyics/Nov 7 Phyics.md",
+    "README.md",
     "未命名思维导图.md",
+    "Phyics/Review.md",
+    "Phyics/2023-12-01 Physics.md",
+    "未命名.canvas",
+    "Pasted image 20231201110250.png",
+    "Phyics/Physics Homework 11-28.md",
     "Phyics/Pressure.md",
     "Phyics/Physics Homework 2023-10-30.md",
     "English 1/2023-10-16.md",
     "English 1/English 1 Testing Concepts.md",
-    "README.md",
     "English 1/English 1.md",
     "Issues Solving",
     "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf",
