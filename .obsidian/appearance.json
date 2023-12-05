@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "#a17bf9",
+  "theme": "system",
+  "cssTheme": "Things",
+  "baseFontSize": 16,
+  "textFontFamily": "Heiti SC,Hei",
+  "baseFontSizeAction": false,
+  "translucency": true
 }

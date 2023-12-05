@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12-05 Physics.md",
+                "file": "Phyics/12-05 Physics Doing work with fluids.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f685a1aad0c53c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a82f20ab2a3207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phyics/Force.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-05 Physics.md",
+                "file": "Phyics/Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12-05 Physics.md",
+                "file": "Phyics/Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12-05 Physics.md"
+                "file": "Phyics/Force.md"
               }
             }
           },
@@ -151,33 +175,35 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ec20a9a2a3350178",
+  "active": "c1a82f20ab2a3207",
   "lastOpenFiles": [
-    "Art Festival Files.md",
-    "12-05 Physics.md",
+    "Phyics/12-05 Physics Homework.md",
+    "TOEFL/2023-10-14 Unknown Word List.md",
+    "Geometory/Homework 17.md",
+    "README.md",
+    "Phyics/12-05 Physics Doing work with fluids.md",
     "English 1/2023-10-16.md",
+    "Art Festival Files.md",
     "Other/2023-11-11 维修报告.md",
     "Other/2023-09-23 维修报告.pdf",
     "Phyics/2023-12-01 Physics.md",
     "English 1/Archive.zip",
-    "README.md",
     "Phyics/Nov 7 Phyics.md",
     "未命名思维导图.md",
     "Phyics/Review.md",

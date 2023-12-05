@@ -37,7 +37,7 @@ Friction is the force that brings nearly everything to a stop, and the force tha
 When two objects are at rest or attempting to move relative to each other, there is a force that prevents their motion. This force is called static friction. The magnitude of static friction depends on the roughness of the contact surfaces and the applied force. An object remains at rest until the applied force is equal to or greater than the static friction force.
 ## Sliding Friction
 When two objects are sliding against each other, there is a force that acts to reduce their motion. This force is called sliding friction. The magnitude of sliding friction is generally smaller than static friction.
-u\
+
 ## Rolling Friction
 When a cylindrical object or a wheel is rolling on a surface, there is a force that slows down its motion. This force is called rolling friction. Rolling friction is usually smaller than both static friction and sliding friction.
 
