@@ -198,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80f989fcdcb4997",
+  "active": "f6eea76a12d72d01",
   "lastOpenFiles": [
     "English 1/Untitled.md",
     "English 1/Birches Discussion.md",

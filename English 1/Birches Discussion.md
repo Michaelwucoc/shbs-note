@@ -1,5 +1,3 @@
-It seems like you are referring to the poem "Birches" by Robert Frost. If that's the case, here are answers to your questions:
-
 **1. What is the image?**
 The primary image in "Birches" is that of a boy swinging on birch trees. The poet describes how the boy bends the trees down and then lets them spring back up.
 
