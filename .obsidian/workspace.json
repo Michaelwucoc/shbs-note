@@ -4,90 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c2aa23bb8d0f1f",
+        "id": "9b689640b4e12906",
         "type": "tabs",
-        "dimension": 54.427792915531334,
         "children": [
           {
-            "id": "2f2de0223e46d908",
+            "id": "9a1d78774385c4dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English 1/2023-10-16.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec20a9a2a3350178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phyics/12-05 Physics Doing work with fluids.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5f685a1aad0c53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a82f20ab2a3207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a80f989fcdcb4997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "[Archive]Building Shanghai/2023-11-13.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "902455cbb7a88425",
-        "type": "tabs",
-        "dimension": 45.572207084468666,
-        "children": [
-          {
-            "id": "f3f54f81bdf68e4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -136,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 214.5
   },
   "right": {
     "id": "1c514343b6255757",
@@ -158,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English 1/2023-10-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English 1/2023-10-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "English 1/2023-10-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -241,14 +160,17 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "2f2de0223e46d908",
+  "active": "9a1d78774385c4dc",
   "lastOpenFiles": [
-    "Phyics/12-05 Physics Doing work with fluids.md",
-    "English 1/2023-10-16.md",
+    "中文 三顾茅庐 2023-12-08.md",
+    "Files/Recording 20231208094218.webm",
+    "[Archive]Building Shanghai/2023-11-13.md",
     "README.md",
+    "Phyics/12-05 Physics Doing work with fluids.md",
+    "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf",
+    "English 1/2023-10-16.md",
     "202312080915.md",
     "Geometory/Similar Polygon and Similar Triangles.md",
-    "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf",
     "Files/Pasted image 20231208084232.png",
     "Files/Pasted image 20231208083715.png",
     "Render Output/Homework 17.pdf",
@@ -262,7 +184,6 @@
     "Files/Pasted image 20231208082809.png",
     "Files/Pasted image 20231208082718.png",
     "Geometory/Geo Homework 1.md",
-    "[Archive]Building Shanghai/2023-11-13.md",
     "English 1/Birches Discussion.md",
     "Pasted image 20231206013452.png.md",
     "English 1/Untitled.md",
@@ -274,7 +195,6 @@
     "Geometory/Homework 17.md",
     "Art Festival Files.md",
     "Other/2023-11-11 维修报告.md",
-    "Other/2023-09-23 维修报告.pdf",
     "Phyics/2023-12-01 Physics.md",
     "Phyics/Nov 7 Phyics.md",
     "未命名思维导图.md",
@@ -283,8 +203,6 @@
     "Pasted image 20231201110250.png",
     "Phyics/Physics Homework 11-28.md",
     "Phyics/Pressure.md",
-    "Phyics/Physics Homework 2023-10-30.md",
-    "English 1/English 1 Testing Concepts.md",
-    "English 1/English 1.md"
+    "Phyics/Physics Homework 2023-10-30.md"
   ]
 }
