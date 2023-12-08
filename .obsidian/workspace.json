@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometory/Similar Polygon.md",
+                "file": "Geometory/Similar Polygon and Similar Triangles.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geometory/Similar Polygon.md",
+                "file": "Geometory/Similar Polygon and Similar Triangles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geometory/Similar Polygon.md",
+                "file": "Geometory/Similar Polygon and Similar Triangles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geometory/Similar Polygon.md"
+                "file": "Geometory/Similar Polygon and Similar Triangles.md"
               }
             }
           },
@@ -234,6 +235,10 @@
   },
   "active": "e52f50609c68d89a",
   "lastOpenFiles": [
+    "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf",
+    "Geometory/Similar Polygon and Similar Triangles.md",
+    "Files/Pasted image 20231208084232.png",
+    "Files/Pasted image 20231208083715.png",
     "Render Output/Homework 17.pdf",
     "Render Output/Geo Homework.pdf",
     "Render Output/12-05 Physics Homework.pdf",
@@ -242,8 +247,6 @@
     "Geo Homework.pdf",
     "Render Output",
     "untitled folder",
-    "Geometory/(Compressed)Geometry Glencoe_Interactive student edition_HQ.pdf",
-    "Geometory/Similar Polygon.md",
     "Files/Pasted image 20231208082809.png",
     "Files/Pasted image 20231208082718.png",
     "Geometory/Geo Homework 1.md",
@@ -264,7 +267,6 @@
     "Other/2023-11-11 维修报告.md",
     "Other/2023-09-23 维修报告.pdf",
     "Phyics/2023-12-01 Physics.md",
-    "English 1/Archive.zip",
     "Phyics/Nov 7 Phyics.md",
     "未命名思维导图.md",
     "Phyics/Review.md",
