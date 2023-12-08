@@ -11,8 +11,13 @@
             "id": "9a1d78774385c4dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -162,8 +171,8 @@
   },
   "active": "9a1d78774385c4dc",
   "lastOpenFiles": [
-    "中文 三顾茅庐 2023-12-08.md",
     "Files/Recording 20231208094218.webm",
+    "中文 三顾茅庐 2023-12-08.md",
     "[Archive]Building Shanghai/2023-11-13.md",
     "README.md",
     "Phyics/12-05 Physics Doing work with fluids.md",
