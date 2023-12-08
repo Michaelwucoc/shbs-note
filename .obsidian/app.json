@@ -12,6 +12,6 @@
   "spellcheck": true,
   "newFileLocation": "current",
   "readableLineLength": false,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "attachmentFolderPath": "Files"
 }
