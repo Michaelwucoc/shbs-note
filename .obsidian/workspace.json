@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28c321ceb149042b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phyics/12-8 Physics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phyics/12-8 Physics.md",
+                "file": "Phyics/12-05 Physics Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phyics/12-8 Physics.md",
+                "file": "Phyics/12-05 Physics Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phyics/12-8 Physics.md"
+                "file": "Phyics/12-05 Physics Homework.md"
               }
             }
           },
@@ -183,11 +169,10 @@
       "zk-prefixer:Create new unique note": true
     }
   },
-  "active": "28c321ceb149042b",
+  "active": "9a1d78774385c4dc",
   "lastOpenFiles": [
+    "Phyics/12-8 Physics.md",
     "Phyics/12-05 Physics Homework.md",
-    "Phyics/12-8 Physics.md",
-    "Phyics/12-8 Physics.md",
     "Phyics/12-05 Physics Doing work with fluids.md",
     "README.md",
     "Files/Recording 20231208094218.webm",
