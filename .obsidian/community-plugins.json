@@ -4,5 +4,8 @@
   "quickadd",
   "obsidian-tracker",
   "obsidian-image-auto-upload-plugin",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-languagetool-plugin",
+  "obsidian-footnotes",
+  "google-calendar"
 ]

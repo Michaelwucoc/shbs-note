@@ -16,6 +16,7 @@ The order of the vertices in a similarity statement is important. It identifies 
 $13(12) = 156 inches$
 $\dfrac{Lengthmodel}{Lengthcar} = \dfrac{6.5inches}{156inches} or \dfrac{1}{24}$
 
+
 The scale factor is $\dfrac{1}{24}$.So the model is $\dfrac{1}{24}$ the length of the real car.
 
 2. Triangle ABC is similar to $\triangle XYZ$ with a scale factor of $\dfrac{2}{3}$ . If the sides of $\triangle ABC$ are $6$, $8$, and $10$ inches, what are the lengths of the sides of $\triangle XYZ$? Write proportions for finding side measures.
