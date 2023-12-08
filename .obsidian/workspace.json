@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phyics/12-05 Physics Homework.md",
+                "file": "Phyics/12-08 Physics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phyics/12-05 Physics Homework.md",
+                "file": "Phyics/12-08 Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phyics/12-05 Physics Homework.md",
+                "file": "Phyics/12-08 Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phyics/12-05 Physics Homework.md"
+                "file": "Phyics/12-08 Physics.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "9a1d78774385c4dc",
   "lastOpenFiles": [
-    "Phyics/12-8 Physics.md",
     "Phyics/12-05 Physics Homework.md",
     "Phyics/12-05 Physics Doing work with fluids.md",
+    "Phyics/12-08 Physics.md",
     "README.md",
     "Files/Recording 20231208094218.webm",
     "中文 三顾茅庐 2023-12-08.md",
