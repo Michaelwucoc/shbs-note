@@ -26,3 +26,4 @@
 3. When an unbalanced force is applied to it, the object will make movement.
 4. An object changes its direction when an external force is applied perpendicular to its current velocity. 
 5. Yes, an object can experience circular motion when a centripetal force acts upon it. 
+6. Eager changed version has the most ability explpk
