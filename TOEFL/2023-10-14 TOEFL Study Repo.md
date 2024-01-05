@@ -15,11 +15,10 @@ He has traveled to Japan and studied the local culture.
 Make friends with like-minded people and do things of interest
 
 
+n
 
-
-Learning the local language and culture
-He has traveled to Japan and learned about the unique Japanese tea ceremony culture. 
-
+Learning the local language 
+He has traveled to Japan and learned about the unique Japanese tea ceremony culture.
 Make friends with like-minded people and do things of interest
 
 co
